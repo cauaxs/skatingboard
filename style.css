@@ -1,25 +1,28 @@
 * { 
-    margin: 10%;
-    padding: 10%;
+    margin: 0;
+    padding: 0;
+}
+body{
+font-family: 'poppins', sans-serif;
 }
 
 .SK8shop {
-background-color: rgb(51, 9, 70);
+background-color:mediumslateblue;
 color: black;
 display: flex;
-justify-content: space-evenly;
+justify-content: space-around;
 align-items: center;
 padding: 24px 0;
 }
 
-.SK8-SHOP-imagem {
-width: 5%;
+.SKATINGboard-imagem{
+    width:5% ;
 }
 
-.SK8-SHOP-shape-marfim {
+.SKTshop-lista {
     display: inline-block;
     margin: 0 16px;
-    font-size: 24px;
+    font-size: 16px;
 }
 
 
@@ -50,8 +53,8 @@ body {
     font-family: 'poppins', sans-serif;
 }
 .SKATINGboard {
-    background-color: black;
-    color: azure;
+    background-color:mediumslateblue;
+    color: black;
     display: flex;
     justify-content: space-around;
     align-items: center;
